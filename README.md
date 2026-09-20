@@ -112,6 +112,9 @@ Star or bookmark for when you encounter an outage in your favorite service.
 * Amplitude - [Amplitude status](https://statussight.com/status/amplitude), [official status](https://status.amplitude.com), [website](https://amplitude.com/), [support page](https://help.amplitude.com/hc/en-us)
 * Auth0 - [Auth0 status](https://statussight.com/status/auth0), [official status](https://auth0.statuspage.io/), [website](https://auth0.com/), [support page](https://support.auth0.com), [X profile](https://twitter.com/auth0status)
 
+* NextReset - [AI service health](https://nextreset.ai/health/) with source-linked OpenAI and Anthropic incident timelines
+
+
 ## All Services Status
 * 10Web - [10Web status](https://statussight.com/status/10web), [official status](https://status.10web.io), [website](https://10web.io/)
 * 1Password - [1Password status](https://statussight.com/status/1password), [official status](https://status.1password.com), [website](https://teams.1password.com/), [support page](https://support.1password.com)
